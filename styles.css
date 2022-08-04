@@ -1,0 +1,67 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    background-color: rgb(235, 240, 243);
+}
+
+[SRC] {
+    display: block;
+    margin: 3px;
+    border-radius: 15px;
+}
+
+header {
+    background: linear-gradient(to right, #2665c5, #88919E);
+    margin: 1px;
+    color:rgb(179, 197, 207);
+    padding: 0px;
+    border-style: inset;
+    text-indent: 35px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hello-world {
+    background-color: rgb(179, 197, 207);
+    border-style: dotted;
+    border-radius: 15px;
+    }
+
+.bubbles {
+    margin: 30px;
+    text-align: center;
+    font-size: larger;
+    background-color: #698cbd;
+    border-radius: 15px;
+    border-style: solid;
+}
+
+.paragraph {
+    margin: 1px;
+    margin: 20px;
+    font-size: 25;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#picture {
+    display: block;
+    margin: 20px;
+    align-content: center;
+    background-color: #88919E;
+    border-radius: 15px;
+    border-style: solid;
+    width: fit-content;
+    border-color: white;
+}
+
+.font1 {
+    margin: 20px;
+    font-size: 30;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.indent {
+    margin: 20px;
+}
