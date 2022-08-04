@@ -1,4 +1,7 @@
-html,
+* {
+    cursor: url(/images/Green_Cursor.png), pointer;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -18,7 +21,7 @@ header {
     color:rgb(179, 197, 207);
     padding: 0px;
     border-style: inset;
-    text-indent: 35px;
+    text-indent: 3%;
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -30,7 +33,7 @@ header {
     }
 
 .bubbles {
-    margin: 30px;
+    margin: 30;
     text-align: center;
     font-size: larger;
     background-color: #698cbd;
