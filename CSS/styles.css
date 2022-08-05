@@ -33,9 +33,14 @@ header {
     background-color: #698cbd;
     border-radius: 15px;
     border-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .paragraph {
+    background-color: #9ebfec;
+    border-style:solid;
+    border-color: #c2c6cc;
+    border-radius: 3px;
     margin: 1px;
     margin: 20px;
     font-size: 25;
@@ -59,6 +64,9 @@ header {
 }
 
 .indent {
+    background-color: #d7dadd;
+    border-radius: 5px;
     margin: 20px;
     font-size: 22px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
