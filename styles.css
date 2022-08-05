@@ -1,5 +1,5 @@
 * {
-    cursor: url(/images/Green_Cursor.png), pointer;
+    cursor: url(images/Green_Cursor.png), pointer;
 }
 
 body {
@@ -51,7 +51,6 @@ header {
 #picture {
     display: block;
     margin: 20px;
-    align-content: center;
     background-color: #88919E;
     border-radius: 15px;
     border-style: solid;
@@ -61,10 +60,11 @@ header {
 
 .font1 {
     margin: 20px;
-    font-size: 30;
+    font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .indent {
     margin: 20px;
+    font-size: 22px;
 }
