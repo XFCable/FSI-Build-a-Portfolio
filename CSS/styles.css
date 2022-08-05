@@ -26,12 +26,6 @@ header {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.hello-world {
-    background-color: rgb(179, 197, 207);
-    border-style: dotted;
-    border-radius: 15px;
-    }
-
 .bubbles {
     margin: 30;
     text-align: center;
